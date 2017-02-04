@@ -1,2 +1,2 @@
 # nezih.github.io
-For my blog.
+Little stuffs here.
