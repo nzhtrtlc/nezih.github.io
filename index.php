@@ -1,9 +1,3 @@
-<?php
-    session_start();
-    if(!$_SESSION["user"]){
-        header("Location: app/views/login.html");
-    }
-?>
 <!DOCTYPE html>
 <html>
 <head>
